@@ -10,7 +10,7 @@ vizualization.py allows to view the position (latitude, longitude) of objects on
 
 This visualization is done with Plotly and available in Objects.html
 
-#########################################################################################################################################################################
+###########################################################################################################
 
 Ce projet fait partie d'un projet Datathon en équipe de 4 personnes.
 
