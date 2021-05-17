@@ -1,6 +1,6 @@
 # Low-Earth-Orbit-occupation
 
-This project is part of a Datathon project within a team of 4 people, carried out in 30 hours.
+This project is part of a Datathon project within a team of 4 people.
 
 SATS.txt contains the TLE (static, at the time of download) coordinates of approximately 4,000 objects in Earth orbit, available on CelesTrak.
 
